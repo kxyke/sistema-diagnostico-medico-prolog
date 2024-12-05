@@ -1,0 +1,12 @@
+?- diagnostico.
+Bem-vindo ao Sistema de Diagnóstico Médico!
+Você tem febre? (sim/nao): sim
+Você tem tosse? (sim/nao): sim
+Você tem cansaço? (sim/nao): sim
+Você tem dor de garganta? (sim/nao): nao
+Você tem dores musculares? (sim/nao): nao
+Você tem dor de cabeça? (sim/nao): nao
+
+Diagnóstico sugerido: gripe
+
+Desenvolvido por: [Kayke de Souza]
