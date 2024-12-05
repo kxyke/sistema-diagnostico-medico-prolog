@@ -1,1 +1,0 @@
-# sistema-diagnostico-medico-prolog
